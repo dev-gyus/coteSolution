@@ -1,9 +1,9 @@
-package java.personal.ch1;
+package cote.practice.practiceCH1;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-public class First {
+public class String1 {
     public static void main(String[] args){
         Scanner in = new Scanner(System.in);
         String input1 = in.next();

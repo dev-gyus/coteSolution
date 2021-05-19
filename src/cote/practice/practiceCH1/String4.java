@@ -1,8 +1,8 @@
-package java.personal.ch1;
+package cote.practice.practiceCH1;
 
 import java.util.Scanner;
 
-public class Fourth {
+public class String4 {
     public static void main(String[] args){
         Scanner in = new Scanner(System.in);
         int count = in.nextInt();
