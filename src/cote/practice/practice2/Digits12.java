@@ -4,9 +4,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class Digits12 {
-    /**
-     * 다시 풀어보기
-     */
+
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         int student = sc.nextInt();
