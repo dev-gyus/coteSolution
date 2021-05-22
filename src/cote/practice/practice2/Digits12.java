@@ -6,13 +6,13 @@ import java.util.Scanner;
 public class Digits12 {
 
     public static void main(String[] args){
-        Scanner sc = new Scanner(System.in);
-        int student = sc.nextInt();
-        int test = sc.nextInt();
+        Scanner scn = new Scanner(System.in);
+        int student = scn.nextInt();
+        int test = scn.nextInt();
         int[][] array = new int[test][student];
         for(int i=0; i < test; i++){
             for(int j=0; j < student; j++){
-                array[i][j] = sc.nextInt();
+                array[i][j] = scn.nextInt();
             }
         }
         for(int i=0; i < array.length; i++) {
